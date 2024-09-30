@@ -31,8 +31,12 @@ A terminal-based Java application for managing and booking conference rooms in a
    - `Add occupant x y`: Add y occupants to room x.
    - `Block room x HH:MM z`: Block room x from time HH:MM for z minutes.
    - `Cancel room x`: Cancel the booking for room x.
+   - `Cancel room x HH:MM z`: Cancel room x from time HH:MM for z minutes.
    - `Show booking x`: Display all bookings for room x.
    - `Room status x`: Display the status of room x.
+   - `Logout`: To logout of the application.
+   - `Login`: To login to the application.
+   - `Help`: For viewing all the availabole commands.
    - `Exit`: Exit the application.
 
 ## Purpose of the Application
